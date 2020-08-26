@@ -1,11 +1,14 @@
 <!doctype html>
 <html>
 <head>
-<title>bio</title>
+<title>sindhu</title>
 </head>
 <body>
 <p>
 html is a hyper text markup language
 </p>
+<h1>sindhu</h1>
+<h2>vignan's university</h2>
+<h3>cse</h3>
 </body>
 </html>
