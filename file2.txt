@@ -11,22 +11,6 @@ html is a hyper text markup language
 <h2>vignan's university</h2>
 <h3>cse</h3>
 <img src="C:\Users\SINDHU\Desktop\demo\panda.jpg"  alt="mahesh babu"   style="float : right;width:500px;height:500px;">
-<ol>
-<li>python<//li>
-<ul>
-<li>introduction of python</li>
-<li>python to beginners</li>
-</ul>
-<li>java</li>
-<ul>
-<li>introduction of java</li>
-<li>java to beginners</li>
-</ul>
-<li>c++</li>
-<ul>
-<li>introduction of c++</li>
-<li>c++ to beginners</li>
-</ul>
-</ol>
+<a href="file:///C:/Users/SINDHU/Desktop/s.html"</a>courses i done
 </body>
 </html>
