@@ -10,5 +10,6 @@ html is a hyper text markup language
 <h1>sindhu</h1>
 <h2>vignan's university</h2>
 <h3>cse</h3>
+<img src="C:\Users\SINDHU\Desktop\demo\panda.jpg"  alt="mahesh babu"   style="float : right;width:500px;height:500px;">
 </body>
 </html>
