@@ -2,15 +2,37 @@
 <html>
 <head>
 <title>sindhu</title>
+<style>
+table{
+border:3px solid #CCC
+}
+table td,table th{
+padding:5px;
+border:1px solid #CCC
+}
+table th{
+padding:10px;
+}
+</style>
 </head>
-<body>
-<p>
-html is a hyper text markup language
-</p>
-<h1>sindhu</h1>
-<h2>vignan's university</h2>
-<h3>cse</h3>
-<img src="C:\Users\SINDHU\Desktop\demo\panda.jpg"  alt="mahesh babu"   style="float : right;width:500px;height:500px;">
-<a href="file:///C:/Users/SINDHU/Desktop/s.html"</a>courses i done
+<body> 
+<table border="0" border-width="0" border-collapse="collapse">
+<tr>
+<th>
+cn
+</th>
+<td>
+89
+</td>
+</tr>
+<tr>
+<th>mpi</th>
+<td>93</td>
+</tr>
+<tr>
+<th>daa</th>
+<td>90</td>
+</tr>
+</table>
 </body>
 </html>

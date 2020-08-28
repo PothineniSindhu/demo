@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+<title>sindhu</title>
+</head>
+<body>
+<ol>
+<li>python<//li>
+<ul>
+<li>introduction of python</li>
+<li>python to beginners</li>
+</ul>
+<li>java</li>
+<ul>
+<li>introduction of java</li>
+<li>java to beginners</li>
+</ul>
+<li>c++</li>
+<ul>
+<li>introduction of c++</li>
+<li>c++ to beginners</li>
+</ul>
+</ol>
+<h2>To register the courses</h2>
+<p><a href="file:///C:/Users/SINDHU/Desktop/demo/form.html?fname=Sindhu&lname=Pothineni&course+available=C"</a>registration</p>
+</body>
+<html>
