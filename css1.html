@@ -3,20 +3,43 @@
 <head>
 <style>
 body {
-       background-color: green;
+       background-color: lightblue;
+       background-image: url("mb.jpg");
+       background-repeat: no-repeat;
+       background-attachment: fixed;
+       background-position: bottom;
 }
 h1  {
-     color: red;
-     text-align: center;
+     border: 1px solid black;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-right: 50px;
+  margin-left: 80px;
+  background-color: red;
+  text-align:center;
 }
-p {
+p.dotted {
 font-family: verdana;
 font-size: 25px;
+border-style: dotted;
 }
+p.solid {
+font-family: verdana;
+font-size: 25px;
+border-style: solid;
+}
+p.inset {
+font-family: verdana;
+font-size: 25px;
+border-style: inset;
+}
+
 </style>
 </head>
 <body>
 <h1>HELLO WORLD</h1>
-<p>CSS is used for styling purpose.</p>
+<p class="dotted">CSS is used for styling purpose.</p>
+<p class="solid">CSS is used for styling purpose.</p>
+<p class="inset">CSS is used for styling purpose.</p>
 </body>
 </html>
